@@ -59,6 +59,7 @@
   "homepage": "https://github.com/ctrlplusb/react-universally#readme",
   "dependencies": {
     "app-root-dir": "1.0.2",
+    "classnames": "2.2.5",
     "colors": "1.1.2",
     "compression": "1.7.0",
     "cross-env": "5.0.5",
@@ -69,7 +70,7 @@
     "modernizr": "3.5.0",
     "normalize.css": "7.0.0",
     "offline-plugin": "4.8.3",
-    "pretty-error": "2.1.1",    
+    "pretty-error": "2.1.1",
     "prop-types": "15.5.10",
     "react": "15.6.1",
     "react-async-bootstrapper": "1.1.1",
