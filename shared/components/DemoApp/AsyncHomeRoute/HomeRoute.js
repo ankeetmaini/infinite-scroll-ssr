@@ -5,6 +5,7 @@ import config from "../../../../config";
 
 import InfiniteScroll from "react-infinite-scroll-component";
 import DropdownTreeSelect from "./dropdown";
+import './dropdown/styles.css';
 
 const onChange = (currentNode, selectedNodes) => {
   console.log("onChange::", currentNode, selectedNodes);
